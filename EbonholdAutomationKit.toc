@@ -1,0 +1,19 @@
+## Interface: 30300
+## Title: |cFF00C0FFEbonhold|r |cFFFFD100Automation Kit|r |cFFAAAAAA(EAK)|r
+## Notes: |cFFFFD100Auto-pick Echoes|r (Perks) for |cFF00C0FFProjectEbonhold|r. Smart rerolls, weighted scoring, profiles + import/export, and detailed history/logbook.
+## Author: James
+## Version: 1.4.7
+## OptionalDeps: ProjectEbonhold
+## SavedVariables: EbonholdAutomationKitGlobal
+## SavedVariablesPerCharacter: EbonholdAutomationKitDB
+## X-Category: Automation
+
+src\init.lua
+src\utils.lua
+src\engine.lua
+src\ui_options.lua
+src\ui_profiles.lua
+src\ui_rarity.lua
+src\ui_weights.lua
+src\ui_stacks.lua
+src\ui_history.lua
